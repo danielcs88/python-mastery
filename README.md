@@ -10,7 +10,7 @@ battle-tested several hundred times on the corporate-training circuit
 for more than a decade.  Written by David Beazley, author of the
 Python Cookbook, 3rd Edition (O'Reilly) and Python Distilled
 (Addison-Wesley).  Released under a Creative Commons license.  Free of
-ads, tracking, pop-ups, newletters, and AI.
+ads, tracking, pop-ups, newsletters, and AI.
 
 ## Target Audience 
 
@@ -94,7 +94,7 @@ exercises.
 
 **A:** You can use [GitHub discussions](https://github.com/dabeaz-course/python-mastery/discussions) to discuss the course.
 
-**Q: What wasn't topic/tool/library X covered?**
+**Q: Why wasn't topic/tool/library X covered?**
 
 **A:** The course was designed to be completed in an intense 4-day
 in-person format. It simply isn't possible to cover absolutely
